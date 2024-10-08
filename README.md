@@ -11,3 +11,5 @@ A collection of opinionated `LuaSnip` snippets for writing `lean4`.
 	opts = {},
 }
 ```
+
+Please see [LuaSnip](https://github.com/L3MON4D3/LuaSnip) for examples of how to set up `nvim-cmp`
