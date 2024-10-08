@@ -1,0 +1,1 @@
+# lean-snippets.nvim
