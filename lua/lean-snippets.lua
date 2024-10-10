@@ -32,6 +32,12 @@ function M.setup()
 			r(1),
 			t({ " ih =>", "  sorry" }),
 		}),
+
+		s(".s", {
+			t("· "),
+			i(1),
+			t({ "", "  sorry" }),
+		}),
 	})
 end
 
